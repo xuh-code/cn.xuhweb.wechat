@@ -17,7 +17,15 @@
       },
       {
         "pagePath": "pages/logs/logs",
-        "text": "日志"
+        "text": "明细"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "联系人"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "我的"
       }
     ]
   },
