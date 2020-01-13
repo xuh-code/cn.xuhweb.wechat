@@ -1,7 +1,10 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/my/my",
+    "pages/friend/friend",
+    "pages/detail/detail"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -16,15 +19,15 @@
         "text": "首页"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/detail/detail",
         "text": "明细"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/friend/friend",
         "text": "联系人"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/my/my",
         "text": "我的"
       }
     ]
